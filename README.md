@@ -5,7 +5,6 @@ ValleyCraft Administrative IRC Bot (IRC-Bot)
 1. Description
 2. Requirements
 3. Developers
-4. Help, Bugs, or Suggestions
 
 ## 1. Description
 ValleyCraft Administrative IRC Bot
