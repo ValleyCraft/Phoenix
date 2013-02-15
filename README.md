@@ -1,17 +1,3 @@
-ValleyCraft Administrative IRC Bot (IRC-Bot)
+ValleyCraft IRC Bot (Phoenix)
 ============================================================
-
-## Table of Contents
-1. Description
-2. Requirements
-3. Developers
-
-## 1. Description
-ValleyCraft Administrative IRC Bot
-
-## 2. Requirements
-
-
-
-## 3. Developers
-None yet
+This is the repo of ValleyCraft's IRC bot codenamed "Phoenix".
